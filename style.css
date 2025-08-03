@@ -39,3 +39,25 @@
 img{
     width: 100%;
 }
+.sai1{
+    text-align: center;
+    font-size: 20px;
+}
+.container1{
+    display: inline-block;
+    /* border: 2px solid; */
+    /* height: 500px; */
+    width: 800px;
+    margin-left: 200px;
+    /* display: flex; */
+}
+.last{
+    text-align: center;
+    font-size: 20px;
+}
+.last1{
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+}
+
