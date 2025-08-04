@@ -1,6 +1,32 @@
-.sai{
-    text-align: center !important;
-    font-size: 20px;
+
+.container1{
+    /* border: 2px solid; */
+    height: 50px;
+  
+}
+.child-11{
+    display: inline-block;
+    /* border: 2px solid red; */
+    width: 20px;
+    /* height: 20px; */
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+.child-12{
+     display: inline-block;
+    /* border: 2px solid red; */
+    text-align: center;
+    /* width: 100px; */
+    /* height: 17px; */
+    margin-left: 530px;
+}
+.child-13{
+     display: inline-block;
+    /* border: 2px solid red; */
+    width: 40px;
+    /* height: 40px; */
+    margin-left: 530px;
 }
 .container{
     /* border: 2px solid; */
@@ -43,7 +69,7 @@ img{
     text-align: center;
     font-size: 20px;
 }
-.container1{
+.container2{
     display: inline-block;
     /* border: 2px solid; */
     /* height: 500px; */
@@ -60,4 +86,6 @@ img{
     font-size: 15px;
     font-style: italic;
 }
-
+.last2{
+    margin-top: 20px;
+}
